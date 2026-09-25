@@ -1,0 +1,20 @@
+[
+  {
+    "name": "vertical-disconnect",
+    "kind": "equipment",
+    "poses": [
+      {
+        "name": "assembled",
+        "frame": 1
+      },
+      {
+        "name": "open",
+        "frame": 61
+      },
+      {
+        "name": "service",
+        "frame": 181
+      }
+    ]
+  }
+]
